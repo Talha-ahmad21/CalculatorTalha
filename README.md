@@ -1,2 +1,2 @@
 # CalculatorTalha
-This is Streamlit calculator developed by Talha.
+This is Streamlit calculator developed by Talha Ahmad.
